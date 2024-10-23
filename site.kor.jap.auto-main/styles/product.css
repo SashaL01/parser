@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.all_car_wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.catCardList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.catCardList li {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.catCardList li:hover {
+    transform: scale(1.05);
+}
+
+.catCard {
+    position: relative;
+}
+
+.catCard img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+}
+
+.lowerCatCard {
+    padding: 15px;
+}
+
+.lowerCatCard h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.startingPrice {
+    font-size: 14px;
+    color: #c90c12;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+
+.button {
+    cursor: pointer;
+    font-size: 14px !important;
+    color: #ffffff;
+    padding: 7px 10px !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0 !important;
+    background: #000;
+    border: none;
+    border-bottom: solid 1px #c90c12;
+    text-align: center;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.button:hover {
+    background-color: #c90c12;
+    transform: scale(1.04);
+}
+
+.button:active {
+    background: #000;
+}
+
+.button a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: #fff;
+}
+
+/* Адаптивность */
+@media screen and (max-width: 768px) {
+    .catCardList li {
+        width: calc(50% - 20px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .catCardList li {
+        width: 100%;
+    }
+}

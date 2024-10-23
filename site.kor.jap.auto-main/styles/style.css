@@ -1,0 +1,2121 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+
+}.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC {
+  box-sizing: border-box;
+  padding: 0rem 4.977rem 0rem 5.2rem;
+  width: 100%;
+  height: 3.2rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #05141f;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .diveututil-iwt {
+  margin: 0.05rem 136.219rem 0.05rem 0rem;
+  height: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .diveututil-iwt .list-item-dox {
+  margin: 0.2rem 1.109rem 0rem 0rem;
+  opacity: 0.2;
+  width: 0.1rem;
+  height: 1.2rem;
+  background-color: rgba(247, 248, 248, 0.200000003);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .diveututil-iwt .list-item-link-privacy-notice-tE6 {
+  margin-right: 1.18rem;
+  text-align: right;
+  display: flex;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 3.3066666667;
+  text-transform: uppercase;
+  color: #9ba1a5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .diveututil-iwt .list-item-88S {
+  margin: 0.2rem 1.215rem 0rem 0rem;
+  opacity: 0.2;
+  width: 0.1rem;
+  height: 1.2rem;
+  background-color: rgba(247, 248, 248, 0.200000003);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .diveututil-iwt .list-item-link-help-contact-2Ui {
+  text-align: right;
+  display: flex;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 3.3066666667;
+  text-transform: uppercase;
+  color: #9ba1a5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .form-Jx2 {
+  margin-right: 3.2rem;
+  box-sizing: border-box;
+  padding-left: 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .form-Jx2 .button-dzJ {
+
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .form-Jx2 .label-kZ8 {
+  margin: 0rem 5.3rem 0.2rem 0rem;
+  width: 4.5rem;
+  height: 3rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.1063rem;
+  font-weight: 400;
+  line-height: 2.7118644068;
+  text-transform: uppercase;
+  color: #697279;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .form-Jx2 .pseudo-Qta {
+  margin-top: 0.2rem;
+  opacity: 0.2;
+  width: 0.1rem;
+  height: 1.2rem;
+  background-color: rgba(247, 248, 248, 0.200000003);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .diveutheaderutilitybar-GKC .link-change-country-XyC {
+  margin-top: 0.1rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.1666666667;
+  text-transform: uppercase;
+  color: #9ba1a5;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ {
+  margin: 0rem 6.906rem 0rem 4rem;
+  width: calc(100% - 10.906rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-bwvn-Y7c {
+  box-sizing: border-box;
+  padding: 3% 3% 3% 3%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-bwvn-Y7c .link-vehicles-sQn {
+  margin-right: 2.005rem;
+  display: flex;
+  font-size: 1.6203rem;
+  font-weight: 400;
+  line-height: 1.0491803279;
+  color: #05141f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-bwvn-Y7c .link-kia-fleet-international-n1x {
+  display: flex;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #05141f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-ure2-Jkz {
+  box-sizing: border-box;
+  padding: 2.15rem 54.797rem 3.35rem 56.969rem;
+  height: 100%;
+ 
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-ure2-Jkz .logokiablack-rbrpng-EuY {
+  width: 10rem;
+  height: 2.5rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/logokiablack-rbrpng.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-aebu-LBt {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 3.1rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-aebu-LBt .link-careers-TGW {
+  margin-right: 1.98rem;
+  display: flex;
+  font-size: 1.6336rem;
+  font-weight: 400;
+  line-height: 1.0406504065;
+  color: #05141f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-aebu-LBt .link-press-kmQ {
+  margin-right: 1.917rem;
+  display: flex;
+  font-size: 1.6867rem;
+  font-weight: 400;
+  line-height: 1.0078740157;
+  color: #05141f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .header-iux .nav-list-phQ .auto-group-aebu-LBt .link-about-kia-UhQ {
+  display: flex;
+  font-size: 1.6734rem;
+  font-weight: 400;
+  line-height: 1.0158730159;
+  color: #05141f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri {
+  box-sizing: border-box;
+  
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #151a23;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-6mzc-i5x {
+  box-sizing: border-box;
+  padding: 26.25rem 86.74rem 26.25rem 86.76rem;
+  width: 100%;
+  height: 108rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-kia-evday-lineupjpg-bg.png');
+  background-color: rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-6mzc-i5x .section-EKC {
+  width: 100%;
+  height: 10.25rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-6mzc-i5x .section-EKC .heading-1-ev-for-all-xkz {
+  margin-bottom: 1.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.4rem;
+  font-weight: 400;
+  line-height: 1.2272727273;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-6mzc-i5x .section-EKC .kia-ev-lineup-Fzz {
+  margin-right: 0.0008rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1875;
+  color: #ffffff;
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-6mzc-i5x .auto-group-6mzc-i5x-bg {
+  width: 192rem;
+  height: 108rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:69ec292708b2c6883ae30dcc68fa41aded6a1776');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz {
+  box-sizing: border-box;
+  padding-top: 5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E {
+  margin: 0rem 35rem 5rem 35rem;
+  width: calc(100% - 70rem);
+  height: 59.647rem;
+  display: flex;
+justify-content: space-between;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-YMp {
+  width: 29.161rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-YMp .kia-evday-product-ev3jpg-J66 {
+  width: 32.077rem;
+  height: 65.612rem;
+  position: relative;
+  left: -1.458rem;
+  top: -2.982rem;
+  background-size: 204.545% 100%;
+  background-position: -16.7675rem 0;
+  background-image: url('../assets/kia-evday-product-ev3jpg.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-YMp .heading-2-the-kia-concept-ev3-N5x {
+  width: 21.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 2.5rem;
+  display: flex;
+  font-size: 2.1141rem;
+  font-weight: 400;
+  line-height: 1.3244641537;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-a5Y {
+  width: 29.161rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-a5Y .kia-evday-product-ev4jpg-8cr {
+  width: 32.077rem;
+  height: 65.612rem;
+  position: relative;
+  left: -1.458rem;
+  top: -2.982rem;
+  background-size: 204.545% 100%;
+  background-position: -16.7675rem 0;
+  background-image: url('../assets/kia-evday-product-ev4jpg.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-a5Y .heading-2-the-kia-concept-ev4-q1U {
+  width: 21.3rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 2.5rem;
+  display: flex;
+  font-size: 2.1141rem;
+  font-weight: 400;
+  line-height: 1.3244641537;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-KxE {
+  width: 27.339rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-KxE .kia-evday-product-ev9jpg-HeA {
+  width: 30.073rem;
+  height: 65.612rem;
+  position: relative;
+  left: -1.367rem;
+  top: -2.982rem;
+  background-size: 218.176% 100%;
+  background-position: -17.7695rem 0;
+  background-image: url('../assets/kia-evday-product-ev9jpg.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-KxE .heading-2-the-kia-ev9-a7U {
+  width: 12.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 2.45rem;
+  display: flex;
+  font-size: 2.1484rem;
+  font-weight: 400;
+  line-height: 1.3032727273;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-Twx {
+  width: 27.339rem;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-Twx .kia-evday-product-ev6jpg-2VG {
+  width: 30.073rem;
+  height: 65.612rem;
+  position: relative;
+  left: -1.367rem;
+  top: -2.982rem;
+  background-size: 218.176% 100%;
+  background-position: -17.7695rem 0;
+  background-image: url('../assets/kia-evday-product-ev6jpg.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .list-E6E .item-Twx .heading-2-the-kia-ev6-j8n {
+  width: 12.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 2.45rem;
+  display: flex;
+  font-size: 2.1484rem;
+  font-weight: 400;
+  line-height: 1.3032727273;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv {
+  width: 100%;
+  height: 216rem;
+  display: flex;
+  justify-content: center;
+  
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn {
+  width: 96rem;
+  height: 215.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn .article-kia-evday-product-ev3jpg-W34 {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev3jpg.png');
+}
+
+
+
+
+
+
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn .article-kia-evday-product-ev4-bgrjpg-Pce {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  left: 0;
+  top: 107.7rem;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev4-bgrjpg.png');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn .article-redefining-the-sedan-ev-Dbg {
+  width: 20.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 198rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn .article-heading-2-the-kia-concept-ev4-J7L {
+  width: 29rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 3rem;
+  top: 201.8rem;
+  display: flex;
+  font-size: 2.8828rem;
+  font-weight: 400;
+  line-height: 1.179403794;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-n4en-Azn .article-button-yDU {
+  width: 15rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 208.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5875rem;
+  font-weight: 700;
+  line-height: 1.0078740157;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem rgba(255, 255, 255, 0.6999999881);
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-amtn-Cc2 {
+  width: 96rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+
+
+
+
+
+ .auto-group-b6la-kNe {
+  box-sizing: border-box;
+  padding: 90rem 3rem 3rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev3-bgrjpg-bg.png');
+  flex-shrink: 0;
+}
+
+.auto-group-b6la-kNeE {
+  box-sizing: border-box;
+  padding: 90rem 3rem 3rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/kia-evday-product-ev9jpg.png');
+  flex-shrink: 0;
+}
+
+.article-robust-yet-innovative-5QvV{
+margin-bottom: 1rem;
+display: flex;
+font-size: 2rem;
+font-weight: 400;
+line-height: 1.4;
+color: rgba(255, 255, 255, 0.6999999881);
+font-family: Helvetica, 'Source Sans Pro';
+white-space: nowrap;
+flex-shrink: 0;}
+
+.article-heading-2-the-kia-concept-ev3-YZQQ{ 
+   margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.8828rem;
+  font-weight: 400;
+  line-height: 1.179403794;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+.article-button-41xX{ 
+   width: 15rem;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5875rem;
+  font-weight: 700;
+  line-height: 1.0078740157;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem rgba(255, 255, 255, 0.6999999881);
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+
+.auto-group-b6la-kNe-bg{
+  width: 96rem;
+
+  position: relative;
+  background-image: url('../assets/article-kia-evday-product-ev9jpg-bg.png');
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-amtn-Cc2 .auto-group-b6la-kNe .article-robust-yet-innovative-5Qv {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-amtn-Cc2 .auto-group-b6la-kNe .article-heading-2-the-kia-concept-ev3-YZQ {
+  margin-bottom: 3rem;
+  display: flex;
+  font-size: 2.8828rem;
+  font-weight: 400;
+  line-height: 1.179403794;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-amtn-Cc2 .auto-group-b6la-kNe .article-button-41x {
+  width: 15rem;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5875rem;
+  font-weight: 700;
+  line-height: 1.0078740157;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem rgba(255, 255, 255, 0.6999999881);
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.400000006);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-rois-pvv .auto-group-amtn-Cc2 .auto-group-b6la-kNe .auto-group-b6la-kNe-bg {
+  width: 96rem;
+
+  position: relative;
+  background-image: url('../assets/article-kia-evday-product-ev9jpg-bg.png');
+}
+ .article-kia-evday-product-ev4jpg-rCi {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev4jpg.png');
+  flex-shrink: 0;
+}
+
+
+.article-kia-evday-product-ev4jpg-rCI {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev4-bgrjpg.png');
+  flex-shrink: 0;
+}
+
+
+
+
+
+
+
+
+
+
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-u67c-jnJ {
+  width: 100%;
+  height: 108rem;
+  display: flex;
+  justify-content: center;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-u67c-jnJ .auto-group-tedq-Ujt {
+  box-sizing: border-box;
+  padding: 98.8rem 3rem 5.8rem 3rem;
+  width: 96rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.9414rem;
+  font-weight: 400;
+  line-height: 1.1559096946;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev9jpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-u67c-jnJ .auto-group-tedq-Ujt .auto-group-tedq-Ujt-bg {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:1d707a371ab3448d1461fcf7b2478c86a2b09a0f');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-u67c-jnJ .auto-group-lztu-tYi {
+  box-sizing: border-box;
+  padding: 98.8rem 3rem 5.8rem 3rem;
+  width: 96rem;
+  height: 100%;
+  display: flex;
+  font-size: 2.9414rem;
+  font-weight: 400;
+  line-height: 1.1559096946;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: 112.5% 100%;
+  background-position: -6rem 0;
+  background-image: url('../assets/article-kia-evday-product-ev6jpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .section-HAz .auto-group-u67c-jnJ .auto-group-lztu-tYi .auto-group-lztu-tYi-bg {
+  width: 96rem;
+  height: 108rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:7f47fc6094056b6d3bce004f2b59bb760e6c0b45');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-bjdg-5dC {
+  box-sizing: border-box;
+  padding: 17.75rem 71.291rem 17.75rem 71.309rem;
+  width: 100%;
+  height: 80rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-kia-evday-bannerjpg-bg.png');
+  background-color: rgba(0, 0, 0, 0.200000003);
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-bjdg-5dC .section-QfU {
+  width: 100%;
+  height: 9.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-bjdg-5dC .section-QfU .heading-1-movement-accelerated-APk {
+  margin-bottom: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.3313rem;
+  font-weight: 400;
+  line-height: 1.2467532468;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-bjdg-5dC .section-QfU .kia-ev-day-5Fp {
+  margin-left: 0.002rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.3846153846;
+  color: #ffffff;
+  font-family: Helvetica, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .divkia-ev-day-Bri .auto-group-bjdg-5dC .auto-group-bjdg-5dC-bg {
+  width: 192rem;
+  height: 80rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:27265f4319183336235e7d984f0b2115759cf398');
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .diveutcmlysection-i3t {
+  box-sizing: border-box;
+  padding: 4.95rem 60.1rem 6rem 49rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f8f8;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .diveutcmlysection-i3t .heading-2-legal-disclaimer-qPQ {
+  margin: 0rem 64.7rem 2.55rem 0rem;
+  display: flex;
+  font-size: 2.3438rem;
+  font-weight: 400;
+  line-height: 1.1946666667;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .diveutcmlysection-i3t .descriptions-details-the-vehicle-shown-here-is-not-yet-available-for-sale-in-the-european-market-all-images-and-videos-shown-are-for-illustration-purposes-only-and-may-not-be-wBY {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.3846153846;
+  color: #05141f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwkiacom-by-htmltodesign-free-version-11-11-2023-15-35-22-gmt3-Ys4 .diveutcmlysection-i3t .descriptions-details-to-eu-specification-Zyc {
+  margin-right: 72.4rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.3846153846;
+  color: #05141f;
+  font-family: Tahoma, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+ */
+
+
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .link-Dhk {
+
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .link-Dhk .go-to-menu-AN6 {
+  width: 7.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 92.109rem;
+  top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .link-Dhk .link-Ecr {
+  width: 192rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #000000;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn {
+  width: 100%;
+  height: 76.8rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-hyundai-reunion-kv-pcjpg-bg.png');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe {
+  box-sizing: border-box;
+  padding: 2.1rem 40rem 3.6rem 40rem;
+  width: 100%;
+  height: 8.5rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(102, 102, 102, 0.5) -0%, rgba(102, 102, 102, 0) 100%);
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .link-logo-whpng-Te2 {
+  margin: 0.2rem 39.12rem 0rem 0rem;
+  width: 15.5rem;
+  height: 2.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-logo-whpng.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-link-brand-journal-jrS {
+  margin-right: 5.1611rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-link-vehicles-T1k {
+  margin-right: 4.9859rem;
+  display: flex;
+  font-size: 1.7719rem;
+  font-weight: 400;
+  line-height: 1.5802469136;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-link-company-NPc {
+  margin-right: 11.333rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-Vj8 {
+  margin: 0.2rem 1rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-Vj8 .link-Rcn {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link.png');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-link-ZDC {
+  margin: 0.2rem 1rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0.34rem 0rem 0.36rem;
+  height: calc(100% - 0.3rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7333333333;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-odL {
+  margin: 0.2rem 0rem 0.1rem 0rem;
+  height: calc(100% - 0.3rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divgnbmenu-ZYe .list-item-odL .button-wjY {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/button.png');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ {
+  box-sizing: border-box;
+  padding: 27.8rem 25.7rem 6.05rem 25.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .divswiper-navigation-wrapper-Lmg {
+  margin-bottom: 16.25rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .divswiper-navigation-wrapper-Lmg .divswiper-button-prev-gqY {
+  margin-right: 136.4rem;
+  width: 2.1rem;
+  height: 4.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/divswiper-button-prev.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .divswiper-navigation-wrapper-Lmg .divswiper-button-next-CYz {
+  width: 2.1rem;
+  height: 4.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/divswiper-button-next.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .heading-2-heritage-story-8Bk {
+  margin: 0rem 110.6rem 0.6rem 0rem;
+  display: flex;
+  font-size: 1.3781rem;
+  font-weight: 400;
+  line-height: 1.0158730159;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .heading-2-hyundai-reunion-reveals-pony-coupe-concept-csc {
+  margin-right: 16rem;
+  display: flex;
+  font-size: 4.7438rem;
+  font-weight: 400;
+  line-height: 1.2648221344;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .auto-group-gr8a-1zJ .heading-2-restoration-Xjg {
+  margin-right: 95.3rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-keyvisual-wrap-vEn .divswiper-container-4rn .divswiper-slide-cNW .divswiper-slide-cNW-bg {
+  width: 192rem;
+  height: 76.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:48b7809db9ecd653d4d2ed1354babfdb5dae0713');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p {
+  margin: 0rem 0.002rem 0.002rem 0rem;
+  width: calc(100% - 0.002rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN {
+  width: 100%;
+  height: 128rem;
+  display: flex;
+  justify-content: center;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn {
+  width: 128rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-xjmc-TvA {
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-hyundai-ioniq5-n-hjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-xjmc-TvA .section-c2N {
+  opacity: 0.5;
+  width: 128rem;
+  height: 26.466rem;
+  position: absolute;
+  left: 0;
+  top: 37.534rem;
+  background: linear-gradient(0deg, rgba(102, 102, 102, 0.5) -0%, rgba(102, 102, 102, 0) 50%);
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-xjmc-TvA .section-heading-2-high-performance-n-6TL {
+  width: 15.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 55.3rem;
+  display: flex;
+  font-size: 1.5875rem;
+  font-weight: 400;
+  line-height: 1.1338582677;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-xjmc-TvA .section-heading-2-the-story-of-electrifying-n-Nfk {
+  width: 27.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 57.8rem;
+  display: flex;
+  font-size: 2.2102rem;
+  font-weight: 400;
+  line-height: 1.4478614351;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-xjmc-TvA .auto-group-xjmc-TvA-bg {
+  width: 128rem;
+  height: 64rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:0ad7fb07481e3c64b18d8adcc0d6d90e9dc858ca');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz {
+  margin-right: 0.002rem;
+  width: calc(100% - 0.002rem);
+  height: 64rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .auto-group-ybop-kwC {
+  box-sizing: border-box;
+  padding: 52.2rem 3rem 2.9rem 3rem;
+  width: 64rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-hyundai-rolling-lab-sjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .auto-group-ybop-kwC .section-heading-2-high-performance-n-tGi {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.5875rem;
+  font-weight: 400;
+  line-height: 1.1338582677;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .auto-group-ybop-kwC .section-heading-2-bringing-motorsports-inspired-technology-into-CHQ {
+  display: flex;
+  font-size: 2.2641rem;
+  font-weight: 400;
+  line-height: 1.4133885438;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .auto-group-ybop-kwC .section-heading-2-production-models-with-the-rolling-lab-K78 {
+  display: flex;
+  font-size: 2.282rem;
+  font-weight: 400;
+  line-height: 1.4022595002;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .auto-group-ybop-kwC .auto-group-ybop-kwC-bg {
+  width: 64rem;
+  height: 64rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:d9b1cb0342f1f2160bbc545681ea17ba5351d778');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-ufby-RCn .auto-group-6gwe-cpz .section-link-a34 {
+  margin-bottom: 0.002rem;
+  width: 63.998rem;
+  height: calc(100% - 0.002rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.0625;
+  color: #002c5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f6f3f2;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-fzea-eYi {
+  margin-bottom: 0.0029rem;
+  box-sizing: border-box;
+  padding: 119.397rem 3rem 2.9rem 3rem;
+  width: 63.998rem;
+  height: calc(100% - 0.0029rem);
+  background-size: 100.001% 100%;
+  background-position: -0.0003rem 0;
+  background-image: url('../assets/section-link-hyundai-ev-pixel-communication-vjpg-bg.png');
+ 
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-fzea-eYi .section-heading-2-design-9VU {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.5875rem;
+  font-weight: 400;
+  line-height: 1.1338582677;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-fzea-eYi .section-heading-2-shaping-the-future-together-pixel-by-pixel-4sL {
+  display: flex;
+  font-size: 2.2281rem;
+  font-weight: 400;
+  line-height: 1.4361851332;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-kfxv-HcN .auto-group-fzea-eYi .auto-group-fzea-eYi-bg {
+  width: 63.998rem;
+  height: 127.9971rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:fc9608b034af2812549ac695efe86181475f6cf2');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c {
+  width: 100%;
+  height: 128rem;
+  display: flex;
+  justify-content: center;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-ypwi-FS2 {
+  margin-bottom: 0.0029rem;
+  box-sizing: border-box;
+  padding: 119.397rem 3rem 2.9rem 3rem;
+  width: 63.998rem;
+  height: calc(100% - 0.0029rem);
+  background-size: 100.001% 100%;
+  background-position: -0.0003rem 0;
+  background-image: url('../assets/section-link-hyundai-david-live-more-sustainably-vjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-ypwi-FS2 .section-heading-2-sustainable-living-Zhc {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-ypwi-FS2 .section-heading-2-david-de-rothschild-on-living-more-sustainably-Upa {
+  display: flex;
+  font-size: 2.282rem;
+  font-weight: 400;
+  line-height: 1.4022595002;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-ypwi-FS2 .auto-group-ypwi-FS2-bg {
+  width: 63.998rem;
+  height: 127.9971rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:d7e5b4496b30c147b8bfbeeaba8699847266f9db');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe {
+  width: 128rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe {
+  margin-right: 0.002rem;
+  width: calc(100% - 0.002rem);
+  height: 64rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe .auto-group-sn7k-va6 {
+  box-sizing: border-box;
+  padding: 55.4rem 4.6rem 2.9rem 3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-hyundai-david-sustainable-activities-sjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe .auto-group-sn7k-va6 .section-heading-2-sustainable-living-4gJ {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe .auto-group-sn7k-va6 .section-heading-2-david-de-rothschilds-5-sustainable-activities-for-kids-C1p {
+  display: flex;
+  font-size: 2.2641rem;
+  font-weight: 400;
+  line-height: 1.4133885438;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe .auto-group-sn7k-va6 .auto-group-sn7k-va6-bg {
+  width: 64rem;
+  height: 64rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:26d6b092e71ea4c0a8b42f670291fdb6baf779a1');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-d2zg-zAe .section-link-euQ {
+  margin-bottom: 0.002rem;
+  width: 557px;
+  height: calc(100% - 0.002rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.0625;
+  color: #002c5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f6f3f2;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-jgyp-uaS {
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-hyundai-david-sustianable-travel-hjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-jgyp-uaS .section-env {
+  opacity: 0.5;
+  width: 128rem;
+  height: 26.466rem;
+  position: absolute;
+  left: 0;
+  top: 37.534rem;
+  background: linear-gradient(0deg, rgba(102, 102, 102, 0.5) -0%, rgba(102, 102, 102, 0) 50%);
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-jgyp-uaS .section-heading-2-sustainable-living-8i6 {
+  width: 13.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 55.3rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-jgyp-uaS .section-heading-2-sustainable-adventures-as-per-david-de-rothschild-pav {
+  width: 54.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 57.8rem;
+  display: flex;
+  font-size: 2.282rem;
+  font-weight: 400;
+  line-height: 1.4022595002;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-vlhy-h9c .auto-group-tuzr-qYe .auto-group-jgyp-uaS .auto-group-jgyp-uaS-bg {
+  width: 127rem;
+  height: 64rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:becf5af02ac664b11881e29fc53eab3b2f8df05b');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A {
+  margin-right: 0.0029rem;
+  width: calc(100% - 0.0029rem);
+  height: 63.998rem;
+  display: flex;
+justify-content: center;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-n5jz-yML {
+  box-sizing: border-box;
+  padding: 55.398rem 3rem 2.9rem 3rem;
+  width: 63.998rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-heritage-pony-sjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-n5jz-yML .section-heading-2-heritage-story-Vaa {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.575rem;
+  font-weight: 400;
+  line-height: 1.1428571429;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-n5jz-yML .section-heading-2-pony-the-timeless-obG {
+  display: flex;
+  font-size: 2.2102rem;
+  font-weight: 400;
+  line-height: 1.4478614351;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-n5jz-yML .auto-group-n5jz-yML-bg {
+  width: 63.998rem;
+  height: 63.998rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:13eee0697c8f3ac24c1d51faaf426e4b10ebac2f');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .section-link-HFY {
+  margin-right: 0.001rem;
+  box-sizing: border-box;
+  padding: 23.498rem 10.339rem 23.5rem 10.359rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f6f3f2;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .section-link-HFY .art--Q5G {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7.6563rem;
+  font-weight: 400;
+  line-height: 1.1102040816;
+  color: #002c5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .section-link-HFY .technology-Kxv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7.9063rem;
+  font-weight: 400;
+  line-height: 1.0750988142;
+  color: #002c5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-xcpi-rhx {
+  box-sizing: border-box;
+  padding: 52.198rem 3rem 2.9rem 3rem;
+  width: 63.998rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-image: url('../assets/section-link-fifa-womens-worldcup-3-sjpg-bg.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-xcpi-rhx .section-heading-2-sports-nLi {
+  margin-bottom: 0.7rem;
+  display: flex;
+  font-size: 1.5625rem;
+  font-weight: 400;
+  line-height: 1.152;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-xcpi-rhx .section-heading-2-the-road-weve-traveled-the-2023-fifa-womens-K5k {
+  display: flex;
+  font-size: 2.2281rem;
+  font-weight: 400;
+  line-height: 1.4361851332;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-xcpi-rhx .section-heading-2-world-cup-ECi {
+  display: flex;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.3913043478;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .divcmpnt-main-article-wrap-n9p .auto-group-zmzc-e4A .auto-group-xcpi-rhx .auto-group-xcpi-rhx-bg {
+  width: 63.998rem;
+  height: 63.998rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:f9ceb5b844107d3757328d1053269654a46d689f');
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr {
+  box-sizing: border-box;
+  padding: 14.886rem 40.283rem 8.2rem 40rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn {
+  margin-bottom: 7.5rem;
+  width: 100%;
+  height: 23.486rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 {
+  margin-right: 16.941rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .contact-legal-Jrn {
+  margin-bottom: 1.786rem;
+  display: flex;
+  font-size: 1.87rem;
+  font-weight: 400;
+  line-height: 1.0010694412;
+  letter-spacing: 0.0192rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .list-item-link-legal-Dir {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .list-item-link-privacy-policy-w94 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .list-item-link-cookies-policy-SLi {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .list-item-link-do-not-sell-my-information-YPk {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-Ny8 .list-item-link-sitemap-FZ4 {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y {
+  width: 9.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .corporate-7bG {
+  margin-bottom: 1.786rem;
+  display: flex;
+  font-size: 1.87rem;
+  font-weight: 400;
+  line-height: 1.0010694412;
+  letter-spacing: 0.0192rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .list-item-link-history-r34 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .list-item-link-awards-AJe {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .list-item-link-vehicle-history-V62 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .list-item-link-networks-D22 {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .list-item-link-affiliates-LcS {
+  margin-bottom: 0.6rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .auto-group-nbja-4oL {
+  margin-right: 1.982rem;
+  width: calc(100% - 1.982rem);
+  display: flex;
+  align-items: center;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .auto-group-nbja-4oL .list-item-link-supplier-1Tg {
+  margin-right: 1.118rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .item-a5Y .auto-group-nbja-4oL .list-item-link-8YJ {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 {
+  box-sizing: border-box;
+  padding-left: 15.95rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA {
+  margin-right: 15.626rem;
+  width: 18.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .hyundai-experiences-9iJ {
+  display: flex;
+  font-size: 1.8554rem;
+  font-weight: 400;
+  line-height: 1.0089518566;
+  letter-spacing: 0.0192rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC {
+  box-sizing: border-box;
+  padding-top: 1.786rem;
+  width: 100%;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-zbrz-pJe {
+  margin-right: 15.9141rem;
+  width: calc(100% - 15.9141rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-zbrz-pJe .list-item-link-n-MpN {
+  margin-right: 0.8859rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-zbrz-pJe .list-item-link-U8J {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link-e1p.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-qxer-nen {
+  margin-right: 3.06rem;
+  width: calc(100% - 3.06rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-qxer-nen .list-item-link-hyundai-motorstudio-wGn {
+  margin-right: 2.04rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-qxer-nen .list-item-link-FYN {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link-QaN.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-hs3p-aKk {
+  margin-right: 4.41rem;
+  width: calc(100% - 4.41rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-hs3p-aKk .list-item-link-hyundai-collection-XVt {
+  margin-right: 1.89rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-hs3p-aKk .list-item-link-pzn {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link-aSE.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-71fp-9nA {
+  margin-right: 7.0551rem;
+  width: calc(100% - 7.0551rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-71fp-9nA .list-item-link-hyundai-artlab-6Bc {
+  margin-right: 1.6449rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-71fp-9nA .list-item-link-o62 {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link-DCW.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-4zss-X22 {
+  margin-right: 8.3689rem;
+  width: calc(100% - 8.3689rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-4zss-X22 .list-item-link-hyundai-nft-53Y {
+  margin-right: 1.6311rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-CYA .auto-group-th7y-suC .auto-group-4zss-X22 .list-item-link-ZzJ {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/list-item-link-qPQ.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .hyundai-social-media-2N6 {
+  margin-bottom: 1.786rem;
+  display: flex;
+  font-size: 1.87rem;
+  font-weight: 400;
+  line-height: 1.0010694412;
+  letter-spacing: 0.0192rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .descriptions-term-worldwide-9Si {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .auto-group-uf1c-4Jn {
+  display: flex;
+  column-gap: 1.7rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .auto-group-uf1c-4Jn .descriptions-details-link-facebookpng-Q7k {
+  margin-bottom: 0.0279rem;
+  opacity: 0.76;
+  width: 2.1rem;
+  height: 2.0721rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/descriptions-details-link-facebookpng.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .auto-group-uf1c-4Jn .descriptions-details-link-instagrampng-UtJ {
+  opacity: 0.76;
+  width: 2.1rem;
+  height: 2.1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/descriptions-details-link-instagrampng.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .auto-group-uf1c-4Jn .descriptions-details-link-youtubepng-agS {
+  opacity: 0.76;
+  width: 2.1rem;
+  height: 2.1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/descriptions-details-link-youtubepng.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .list-SJn .auto-group-jykp-FN2 .item-5xe .auto-group-uf1c-4Jn .descriptions-details-link-twitterpng-5NJ {
+  opacity: 0.76;
+  width: 2.1rem;
+  height: 2.1rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/descriptions-details-link-twitterpng.png');
+  flex-shrink: 0;
+}
+.wwwhyundaicom-by-htmltodesign-free-version-11-11-2023-20-44-27-gmt3-vie .footer-uJr .hyundai-motor-company-yTg {
+  margin-right: 92.317rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.0192rem;
+  color: #cfc8c2;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+
+
+.loremSection {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.loremContent {
+ margin-left: 40%
+}
+
+.loremConten{
+  margin-left: 10%;
+}
+
+/* 2 и 4 блоки справа */
+#loremSection2,
+#loremSection4 {
+  order: 1;
+}
+
+.loremTextContainer {
+  max-width: 400px; /* Задайте максимальную ширину для текста */
+}
+
+.loremImageContainer img {
+  max-width: 100%; /* Чтобы изображение подстраивалось под контейнер */
+  height: auto;
+}
+
+/* Добавьте стили для скрытия текста и изображений по умолчанию */
+.loremTextContainer,
+.loremImageContainer {
+  opacity: 0;
+}
+
+/* Добавьте анимацию появления текста */
+.loremTextContainer.show {
+  animation: revealText 1s ease-out forwards;
+}
+
+@keyframes revealText {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Добавьте анимацию появления изображения */
+.loremImageContainer.show {
+  animation: revealImage 1s ease-out forwards;
+}
+
+@keyframes revealImage {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.loremwrap{
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+.loremText{
+  font-size: 30px;
+}
+
+ .loremImage {
+  transition: transform 1s ease;
+}
+
+.loremImageContainer {
+  width: 100%;
+  overflow: hidden;
+}
+
+.loremImage:hover {
+  transform: scale(1.1);
+} 
+
+
